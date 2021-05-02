@@ -1,0 +1,17 @@
+{
+  "name": "process-hook-logger",
+  "version": "0.0.1",
+  "description": "Logger hook process output",
+  "main": "process_hook_logger.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": ["logger", "process_hook", "process_hook_logger"],
+  "author": "rjoydip",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.10.4",
+    "pino": "^6.11.3",
+    "pino-pretty": "^4.7.1"
+  }
+}
